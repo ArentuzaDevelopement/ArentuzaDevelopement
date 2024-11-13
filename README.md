@@ -35,8 +35,7 @@
 
 ---
 
-## 🎨 **Animasyonlu Profil Resmi:**  
-![Animation](https://media.giphy.com/media/3o6Zt5jYskys4ybTfe/giphy.gif)
+![Animation](https://cdn.dribbble.com/users/603800/screenshots/4569474/dribbble-code.gif)
 
 ---
 
@@ -45,22 +44,20 @@
 
 ---
 
-## 🌟 **Kullandığım Araçlar ve Logolar:**
-### **Teknolojik Araçlarım:**
-- ![Node.js Logo](https://upload.wikimedia.org/wikipedia/commons/6/69/Logo_nodejs.svg) **Node.js** - JavaScript uygulamalarım için güçlü bir ortam.
-- ![Visual Studio Code Logo](https://upload.wikimedia.org/wikipedia/commons/1/1f/Visual_Studio_Code_1.35_icon.svg) **Visual Studio Code** - Kodu yazarken kullandığım harika IDE.
-- ![Discord Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Discord_logo_2021.svg/1200px-Discord_logo_2021.svg.png) **Discord.js** - Discord botlarım için temel yapı taşı.
-- ![FiveM Logo](https://upload.wikimedia.org/wikipedia/commons/2/25/FiveM_logo.png) **FiveM** - Oyun sunucusu geliştirme ve özelleştirme.
-
----
-
 ## 🎮 **Projelerde Kullandığım Araçlar:**
-- **Node.js** - JavaScript ve TypeScript uygulamalarım için güçlü bir ortam.
-- **Discord.js** - Discord botlarım için temel yapı taşı.
-- **FiveM** - Oyun sunucusu geliştirme ve özelleştirme.
-- **Visual Studio Code** - Kod yazarken kullandığım harika IDE.
+- **Node.js**
+- **Discord.js**
+- **FiveM**
+- **JavaScript**
+- **TypeScript**
+- **Lua**
+- **HTML/CSS**
+- **React**
+- **MongoDB**
+- **Visual Studio Code**
+- **Git**
+- **Docker**
 
 ---
 
 ✨ **Teşekkürler!** 🚀  
-**Arentuza** ile projelerinizi geliştirmek için sabırsızlanıyorum!  
