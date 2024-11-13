@@ -1,4 +1,4 @@
-# 👋 **Merhaba! Ben Arentuza!** 👾  
+# 👋 **Merhaba!** 👾  
 **FiveM Geliştiricisi | Yazılım Mühendisi | Oyun Geliştiricisi**
 
 🎮 **FiveM Sunucu Scriptleri** | 💻 **Discord Botları** | 🌐 **Web Uygulamaları**  
