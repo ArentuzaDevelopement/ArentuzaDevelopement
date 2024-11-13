@@ -45,11 +45,12 @@
 
 ---
 
-## 🌟 **Logolarım ve Araçlarım:**
-![Node.js](https://upload.wikimedia.org/wikipedia/commons/6/69/Logo_nodejs.svg)
-![Visual Studio Code](https://upload.wikimedia.org/wikipedia/commons/1/1f/Visual_Studio_Code_1.35_icon.svg)
-![Discord](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Discord_logo_2021.svg/1200px-Discord_logo_2021.svg.png)
-![FiveM](https://upload.wikimedia.org/wikipedia/commons/2/25/FiveM_logo.png)
+## 🌟 **Kullandığım Araçlar ve Logolar:**
+### **Teknolojik Araçlarım:**
+- ![Node.js Logo](https://upload.wikimedia.org/wikipedia/commons/6/69/Logo_nodejs.svg) **Node.js** - JavaScript uygulamalarım için güçlü bir ortam.
+- ![Visual Studio Code Logo](https://upload.wikimedia.org/wikipedia/commons/1/1f/Visual_Studio_Code_1.35_icon.svg) **Visual Studio Code** - Kodu yazarken kullandığım harika IDE.
+- ![Discord Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Discord_logo_2021.svg/1200px-Discord_logo_2021.svg.png) **Discord.js** - Discord botlarım için temel yapı taşı.
+- ![FiveM Logo](https://upload.wikimedia.org/wikipedia/commons/2/25/FiveM_logo.png) **FiveM** - Oyun sunucusu geliştirme ve özelleştirme.
 
 ---
 
