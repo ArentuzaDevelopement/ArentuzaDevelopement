@@ -1,11 +1,8 @@
 # 👋 **Merhaba! Ben Arentuza!** 👾  
 **FiveM Geliştiricisi | Yazılım Mühendisi | Oyun Geliştiricisi**
 
-✨ **Proje Türleri:**
-- **FiveM Sunucu Scriptleri**  
-- **Discord Botları**  
-- **Web Uygulamaları**  
-- **Özel Yazılım Çözümleri**  
+🎮 **FiveM Sunucu Scriptleri** | 💻 **Discord Botları** | 🌐 **Web Uygulamaları**  
+🚀 **Node.js** | ⚡ **JavaScript** | 🧑‍💻 **Yazılım Çözümleri**
 
 ---
 
@@ -16,7 +13,7 @@
 
 ---
 
-## 🎮 **Proje ve Katkılarım:**
+## 🚀 **Projelerim:**
 - [**FiveM Scriptleri**](https://github.com/Arentuza/fivem-scripts)  
 - [**Discord Botları**](https://github.com/Arentuza/discord-bots)  
 - [**Web Uygulamaları**](https://github.com/Arentuza/web-apps)  
@@ -31,9 +28,9 @@
 
 ---
 
-## 👨‍💻 **Sosyal Medya Bağlantılarım:**
-- [**Discord Sunucumuz**](https://discord.gg/yourserverlink) 🎉
-- [**Twitter**](https://twitter.com/yourusername) 🐦
+## 💥 **Sosyal Medya Bağlantılarım:**
+- [**Discord Sunucumuz**](https://discord.gg/yourserverlink) 🎉  
+- [**Twitter**](https://twitter.com/yourusername) 🐦  
 - [**LinkedIn**](https://linkedin.com/in/yourprofile) 🔗
 
 ---
@@ -43,15 +40,24 @@
 
 ---
 
-## 👁️‍🗨️ **Ziyaretçi Sayısı:**  
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Arentuza.Arentuza)
+## 📈 **Ziyaretçi Sayısı:**  
+![Visitor Count](https://profile-counter.glitch.me/ArentuzaDevelopement/count.svg)
 
 ---
 
-## 💥 **İlgi Alanlarım:**
-- 🎮 Oyun geliştirme
-- 🧑‍💻 Yazılım mühendisliği
-- 🛠️ Teknik projeler ve inovasyon
+## 🌟 **Logolarım ve Araçlarım:**
+![Node.js](https://upload.wikimedia.org/wikipedia/commons/6/69/Logo_nodejs.svg)
+![Visual Studio Code](https://upload.wikimedia.org/wikipedia/commons/1/1f/Visual_Studio_Code_1.35_icon.svg)
+![Discord](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Discord_logo_2021.svg/1200px-Discord_logo_2021.svg.png)
+![FiveM](https://upload.wikimedia.org/wikipedia/commons/2/25/FiveM_logo.png)
+
+---
+
+## 🎮 **Projelerde Kullandığım Araçlar:**
+- **Node.js** - JavaScript ve TypeScript uygulamalarım için güçlü bir ortam.
+- **Discord.js** - Discord botlarım için temel yapı taşı.
+- **FiveM** - Oyun sunucusu geliştirme ve özelleştirme.
+- **Visual Studio Code** - Kod yazarken kullandığım harika IDE.
 
 ---
 
